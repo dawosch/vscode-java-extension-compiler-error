@@ -13,4 +13,5 @@ You will notice that the setter on line 20 is gone and that the compiler changed
 ## Information
 Sometimes the extension doesn't recompile your code.
 Then you need to change something in the file `app/src/main/java/con/example/demo/TestMapperInterface.java`
+
 Adding some line breaks should be enough.
